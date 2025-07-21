@@ -1,6 +1,8 @@
+## 🚀 Live Demo
+🌐 [color-change-cyan.vercel.app](https://color-change-cyan.vercel.app)
+
 # React + Vite
-# color change
-Check out the website [here](https:://color-change-cyan.vercel.app)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
